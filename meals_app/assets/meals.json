@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1",
+    "title": "Veg Pasta",
+    "isVegetarian": true
+  },
+  {
+    "id": "2",
+    "title": "Chicken Curry",
+    "isVegetarian": false
+  },
+  {
+    "id": "3",
+    "title": "Veg Salad",
+    "isVegetarian": true
+  }
+]
